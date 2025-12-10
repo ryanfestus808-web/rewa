@@ -1,0 +1,390 @@
+you are a professional website developer ( frontend and backend developer), website designer, ui/ux designer, brand identity strategist and designer, graphic designer, seo optimiser with over 5 decades expereince and expertise in building sleek website:
+“Build a complete, responsive, multi-page website for REWA, an AI-powered multi-service ecosystem platform in Nigeria. The site must include homepage, services pages, marketplace, SME dashboard previews, booking flows (flight, hotels, rides, meals), AI chatbot page, partners, blog, pricing, testimonials, government/tax services, and contact pages. Every major section must include embedded prototype-style app screens using smartphone/tablet mockups.”
+
+⭐ SECTION 1 — BRANDING & DESIGN SYSTEM
+
+Use a consistent REWA design system:
+
+Brand Colors
+
+Dark Green: #064F33
+
+Teal: #0AB39C
+
+White: #FFFFFF
+
+Use Teal for highlights + CTAs
+
+Use Dark Green for headers + key typography
+
+Typography
+
+Inter / Poppins / Sans-serif, clean and modern
+
+Headings: bold
+
+Body text: medium / regular
+
+UI Style
+
+Rounded corners
+
+Soft shadows
+
+Glassmorphism accents allowed
+
+Circular motifs inspired by REWA loop-R logo
+
+Smooth transitions and micro-interactions
+
+Mobile-first responsive layout
+
+⭐ SECTION 2 — WEBSITE PAGES TO BUILD (FULL STRUCTURE)
+1. Homepage / Landing Page
+
+Must include:
+
+Hero Section
+
+Large REWA logo + tagline: “Everything. One platform.”
+
+Subtext: “AI-powered ecosystem connecting Nigerians to services, SMEs, and government tools.”
+
+CTAs:
+
+“Get Started”
+
+“Explore Services”
+
+“Create Account”
+
+Hero Visual
+
+Device mockups showing REWA app screens:
+
+Flight booking
+
+Hotel booking
+
+Transport
+
+Meals
+
+Marketplace
+
+SME dashboard
+
+AI assistant
+
+Quick Service Tiles
+
+Clickable cards for:
+
+Flights
+
+Hotels
+
+Rides & Transport
+
+Meals
+
+Marketplace
+
+SME Tools
+
+Government Services
+
+AI Assistant
+
+Featured Partners Section
+
+Logos of:
+Banks, fintech companies, airlines, logistics, government bodies
+
+Testimonials Preview
+
+Short success stories from SMEs and customers
+
+2. About Page
+
+Include:
+
+Company overview (Abia State HQ, Nigeria-wide expansion plans)
+
+Vision & mission
+
+Why REWA is unique (AI-powered + all-in-one ecosystem)
+
+Photos or illustrations
+
+Optional team cards
+
+3. Services Page (Parent Page)
+
+Show all services in grid format with CTAs and app mockup images.
+
+3A. Subpages — Each Service Must Have Its Own Page
+• Flight Booking (Page)
+
+Include:
+
+Search bar (From → To → Date → Passengers)
+
+Flight results design
+
+App screen mockups
+
+Price cards
+
+Booking summary preview
+
+• Hotel Booking (Page)
+
+Include:
+
+Search bar
+
+List/grid view of hotels with price + rating
+
+Device mockups of hotel booking flow
+
+• Transport / Rides (Page)
+
+Include:
+
+Vehicle selection
+
+Map preview
+
+Price estimate
+
+Transport booking UI mockup
+
+• Meals Ordering (Page)
+
+Include:
+
+Restaurants list
+
+Menu UI
+
+Cart/checkout preview
+
+App screens
+
+• Marketplace (Page)
+
+Include:
+
+Business directory
+
+Product listings
+
+Filters
+
+SME profiles
+
+User reviews
+
+Screenshots of marketplace UI
+
+• SME Tools (Page)
+
+Include:
+
+Dashboard preview
+
+Invoicing UI
+
+Analytics charts
+
+Payment tracking
+
+Business insights (AI powered)
+
+• Government Services (Page)
+
+Include:
+
+2026 tax reform tools
+
+Permits
+
+License applications
+
+Document upload UI
+
+Status tracking screen
+
+⭐ SECTION 4 — AI & TECHNOLOGY PAGE
+
+Showcase:
+
+REWA AI Assistant
+
+LLM-powered insights
+
+Predictive recommendations
+
+Embedded app screens for:
+
+Chat interface
+
+Analytics
+
+Booking recommendations
+
+⭐ SECTION 5 — MARKETPLACE / DASHBOARD PAGE
+
+Include:
+
+Searchable business directory
+
+Filters
+
+Desktop dashboard preview
+
+Mobile dashboard preview
+
+Booking activities preview
+
+Analytics widgets
+
+Cards for:
+
+Popular services
+
+Suggested businesses
+
+Trending categories
+
+⭐ SECTION 6 — PARTNERS & INTEGRATIONS PAGE
+
+Include:
+
+Logos grid
+
+Integration flow diagrams
+
+App screens showcasing integrated payments, bookings, etc.
+
+Api/partner onboarding section
+
+⭐ SECTION 7 — BLOG / NEWS / INSIGHTS PAGE
+
+Include:
+
+Grid article layout
+
+Categories (AI, SMEs, Tech, Finance, Nigeria)
+
+Search bar
+
+Full article template page
+
+Embedded phone/tablet mockup showing reading mode
+
+⭐ SECTION 8 — PRICING PAGE
+
+Include:
+
+Free plan
+
+SME Premium plan
+
+Enterprise plan
+
+Feature comparison table
+
+CTA buttons
+
+Notes about value
+
+⭐ SECTION 9 — TESTIMONIALS / SUCCESS STORIES PAGE
+
+Include:
+
+Stories of SME growth using REWA
+
+Customer reviews
+
+Images + star ratings
+
+App screenshots showing their interactions
+
+⭐ SECTION 10 — CONTACT PAGE
+
+Include:
+
+Contact form (name, email, message)
+
+Live chat widget
+
+Map view of Abia State HQ
+
+Social icons
+
+FAQ block
+
+⭐ SECTION 11 — LEGAL PAGES
+
+Create:
+
+Privacy Policy (NDPR compliant)
+
+Terms & Conditions
+
+Cookie Policy
+
+⭐ SECTION 12 — GLOBAL FOOTER
+
+Include:
+
+Quick links
+
+Social icons
+
+Newsletter signup
+
+One-line brand description:
+“Rewa connects Nigerians to everything they need — businesses, services, travel, government, and AI solutions.”
+
+⭐ SECTION 13 — AI CHATBOT (Standalone Page + Widget)
+
+Build the REWA AI Assistant interface:
+
+Chatbot UI
+
+Message bubbles
+
+Header with REWA logo
+
+Quick service suggestions:
+
+Book flight
+
+Find hotel
+
+Order meal
+
+Transport
+
+SME insights
+
+Pay tax
+
+Embedded service cards within chat
+
+Device mockup embeds
+
+Voice input
+
+Typing indicator
+
+⭐ MAKE EVERYTHING INTERLINKED
+
+All pages must link properly, with working routing/navigation.
+
+⭐ FINAL LOVABLE INSTRUCTION
+
+“Generate the full REWA website exactly as structured above, with prototype-like embedded app images, mobile-first responsiveness, clean dashboard visuals, interactive cards, and matching REWA branding. Use consistent components across pages and build all layouts fully.”
