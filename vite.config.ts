@@ -45,9 +45,8 @@ export default async () =>
         output: {
           manualChunks(id) {
             if (id.includes('node_modules')) {
-              if (id.includes('react') || id.includes('react-dom')) {
-                return 'react-vendor';
-              }
+              // Keep most third-party deps in a shared `vendor` chunk.
+              // Group larger UI-related libs separately for cache benefit.
               if (id.match(/@radix-ui|framer-motion|lucide-react|wouter|recharts/)) {
                 return 'ui-vendor';
               }
